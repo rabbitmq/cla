@@ -4,7 +4,7 @@ This repository contains Contributor License Agreement documents.
 
 How to use them:
 
-1. Download the [most recent document](./raw/refs/heads/main/docs/2024.05.22-avgo-cla.docx)
+1. Download the [most recent document](./docs/2024.05.22-avgo-cla.docx)
 2. Print, sign and scan it
 3. Email the signed document with the subject of `RabbitMQ CLA` to `teamrabbitmq </> gmail dot com`
 
