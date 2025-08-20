@@ -13,11 +13,11 @@ you must sign it. This must be done only once per contributor, whether it is an 
 In other words, if three members from company C plan on contributing, the company has to sign the CLA **just once**,
 **not** once per employee.
 
-
 ## How to Submit a CLA
 
-How to use them:
+The process involves contacting our team via email, and receiving a signing request from [Box Sign](https://www.box.com/en-gb/esignature) service.
 
-1. Download the [most recent document](./docs/2024.05.22-avgo-cla.docx)
-2. Print it (to PDF or on paper), sign (with a visual digital signature or by hand), scan it if necessary
-3. Email the signed document with the subject of `RabbitMQ CLA` to `teamrabbitmq </> gmail dot com`
+1. Contact us via email at `tnz-rabbitmq-core dot pdl </> broadcom dot com` with subject `Please send a request to sign RabbitMQ CLA`
+2. State a preferred email to receive the signing request. It could be the same email address that sends the request.
+3. You will receive a signing request with subject starting with `Please Sign:` from a Broadcom email.
+4. Follow the link in the document to sign the request. The trusted domain is `broadcom dot box dot com`
